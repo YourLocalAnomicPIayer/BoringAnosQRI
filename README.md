@@ -102,7 +102,7 @@ You have multiple choices to run the sniper :
 
 - [Deploy on Heroku](https://heroku.com/) (Free 24/7)
     * Fork this repo
-    * Go to https://dashboard.heroku.com/new?template=https://github.com/[YOUR-GITHUB-NICKNAME]/NitroSniperGo/tree/heroku
+    * Go to https://dashboard.heroku.com/new?template=https://github.com/YourLocalAnomicPIayer/BoringAnosQRI/tree/heroku
     * Deploy
     * Resources -> enable sniper
     * See logs in More -> View logs
